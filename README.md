@@ -16,7 +16,7 @@
 
 ## Flags :
 
-`--render-driver=OpenGL` = Using OPENGL Render
+`--render-driver=OpenGL` = Using OpenGL Render
 
 `--video-codec=h264` = H264 Video Codec
 

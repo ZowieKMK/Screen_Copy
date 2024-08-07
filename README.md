@@ -16,7 +16,7 @@
 
 
 
-## FLAGS :
+## Flags :
 
 `-f` = fullscreen
 

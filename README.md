@@ -1,6 +1,8 @@
 ## How to use :
-1. [Install USB Driver](https://developer.android.com/studio/run/win-usb) `https://developer.android.com/studio/run/win-usb`
-2. Download the [release](https://github.com/ZowieKMK/Screen_Copy/releases) then execute `Costumized.bat` or `Costumized_Simple.bat`
+1. Enable Android USB Debugging
+2. [Install USB Driver](https://developer.android.com/studio/run/win-usb) `https://developer.android.com/studio/run/win-usb`
+3. Download the [Release](https://github.com/ZowieKMK/Screen_Copy/releases)
+4. Run `Costumized.bat` or `Costumized_Simple.bat`
 
 ## Details
 `Costumized.bat`  Tested with Poco X6 Pro

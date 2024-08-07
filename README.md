@@ -3,4 +3,4 @@
 2. download the release then execute `Costumized.bat` or `Costumized_Simple.bat`
 
    
-Costumized SCRCPY from original Github page : [GitHub Pages]([https://pages.github.com/](https://github.com/Genymobile/scrcpy)).
+Costumized SCRCPY from original Github page : [GitHub Pages](https://github.com/Genymobile/scrcpy).

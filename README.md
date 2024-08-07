@@ -17,9 +17,13 @@
 ## Flags :
 
 `--render-driver=OpenGL` = Using OPENGL Render
+
 `--video-codec=h264` = H264 Video Codec
+
 `-f` = fullscreen
+
 `--max-fps=65` = maximum framerate
+
 `--video-bit-rate=60M` bit rate video
 
 ## Usefull Tips :

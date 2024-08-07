@@ -4,24 +4,22 @@
 
 ## Description
 `Costumized.bat`  Tested with Poco X6 Pro
-> scrcpy --render-driver=OpenGL --video-codec=h264 --video-encoder='OMX.MTK.VIDEO.ENCODER.AVC' --audio-codec=opus --audio-encoder='c2.android.opus.encoder' --stay-awake --max-fps=65 --video-bit-rate=60M -f scrcpy
->
-> 
+> scrcpy --render-driver=OpenGL --video-codec=h264 --video-encoder='OMX.MTK.VIDEO.ENCODER.AVC' --audio-codec=opus --audio-encoder='c2.android.opus.encoder' --stay-awake --max-fps=65 --video-bit-rate=60M -f
+
 
 
 `Costumized_Simple.bat` Tested with Poco X6 Pro
 > scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake -f
->
-> 
+
 
 
 
 ## Flags :
 
+`--render-driver=OpenGL` = Using OPENGL Render
+`--video-codec=h264` = H264 Video Codec
 `-f` = fullscreen
-
 `--max-fps=65` = maximum framerate
-
 `--video-bit-rate=60M` bit rate video
 
 ## Usefull Tips :

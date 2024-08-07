@@ -31,5 +31,5 @@
 
 ## Usefull Tips :
 - Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,
-- You can also enable Wireless Mode using [wireless ADB](https://help.famoco.com/developers/dev-env/adb-over-wifi)
+- You can also enable Wireless Mode using [Wireless ADB](https://help.famoco.com/developers/dev-env/adb-over-wifi)
 

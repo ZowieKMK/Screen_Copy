@@ -3,13 +3,13 @@
 2. Download the [release](https://github.com/ZowieKMK/Screen_Copy/releases) then execute `Costumized.bat` or `Costumized_Simple.bat`
 
 ## Description
-`Costumized.bat`  
+`Costumized.bat`  Tested with Poco X6 Pro
 > scrcpy --render-driver=OpenGL --video-codec=h264 --video-encoder='OMX.MTK.VIDEO.ENCODER.AVC' --audio-codec=opus --audio-encoder='c2.android.opus.encoder' --stay-awake --max-fps=65 --video-bit-rate=60M -f scrcpy
 >
 > 
 
 
-`Costumized_Simple.bat` 
+`Costumized_Simple.bat` Tested with Poco X6 Pro
 > scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake -f
 >
 > 

@@ -1,8 +1,9 @@
 ## How to use :
-1. Enable Android USB Debugging
-2. [Install USB Driver](https://developer.android.com/studio/run/win-usb) `https://developer.android.com/studio/run/win-usb`
-3. Download the [Release](https://github.com/ZowieKMK/Screen_Copy/releases)
-4. Run `Costumized.bat` or `Costumized_Simple.bat`
+1. Download the [Release](https://github.com/ZowieKMK/Screen_Copy/releases)
+2. Enable Android USB Debugging
+3. [Install USB Driver](https://developer.android.com/studio/run/win-usb) `https://developer.android.com/studio/run/win-usb`
+4. Plug Android via USB
+5. Run `Costumized.bat` or `Costumized_Simple.bat`
 
 ## Details
 `Costumized.bat`  Tested with Poco X6 Pro
@@ -29,5 +30,6 @@
 `--video-bit-rate=60M` bit rate video
 
 ## Usefull Tips :
-Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,
+- Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,
+- You can also enable Wireless Mode using [wireless ADB](https://help.famoco.com/developers/dev-env/adb-over-wifi)
 

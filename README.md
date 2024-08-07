@@ -8,7 +8,9 @@
 `Costumized_Simple.bat` = scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --audio-source=playback --max-fps=65 --stay-awake -f
 
 `-f` = fullscreen
+
 `--max-fps=65` = maximum framerate
+
 `--video-bit-rate=60M` bit rate video
 
 

@@ -6,14 +6,8 @@
 5. Run `Costumized.bat` or `Costumized_Simple.bat`
 
 ## Details
-`Costumized.bat`  Tested with Poco X6 Pro
-> scrcpy --render-driver=OpenGL --video-codec=h264 --video-encoder='OMX.MTK.VIDEO.ENCODER.AVC' --audio-codec=opus --audio-encoder='c2.android.opus.encoder' --stay-awake --max-fps=65 --video-bit-rate=60M -f
-
-
-
-`Costumized_Simple.bat` Tested with Poco X6 Pro
-> scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake -f
-
+`RUN_SCRCPY.bat` Tested with Poco X6 Pro
+> scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake --audio-source=playback -f 
 
 
 

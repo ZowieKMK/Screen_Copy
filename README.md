@@ -27,7 +27,7 @@
 
 `--max-fps=65` = maximum framerate
 
-`--video-bit-rate=60M` bit rate video
+`--video-bit-rate=60M` = video bit rate 
 
 ## Usefull Tips :
 - Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,

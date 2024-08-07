@@ -24,7 +24,7 @@
 
 `--video-bit-rate=60M` bit rate video
 
-###usefull tips :
+## usefull tips :
 if feel any lag/delay, please decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`)
 
 

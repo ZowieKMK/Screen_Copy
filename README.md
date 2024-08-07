@@ -1,5 +1,5 @@
 ***How to use :***
-1. install USB driver `https://developer.android.com/studio/run/win-usb`
+1. install USB driver `https://developer.android.com/studio/run/win-usb`  [HERE](https://developer.android.com/studio/run/win-usb)
 2. download the release then execute `Costumized.bat` or `Costumized_Simple.bat`
 
    

@@ -1,2 +1,2 @@
-Costumozed SCRCPY
+Costumized SCRCPY
 original Github page : https://github.com/Genymobile/scrcpy

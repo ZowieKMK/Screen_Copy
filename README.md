@@ -7,7 +7,7 @@
 
 ## Details
 `RUN_SCRCPY.bat` Tested with Poco X6 Pro
-> scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake --audio-source=playback -f 
+> scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake -f
 
 
 
@@ -22,6 +22,7 @@
 `--max-fps=65` = maximum framerate
 
 `--video-bit-rate=60M` = video bit rate 
+
 
 ## Usefull Tips :
 - Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,

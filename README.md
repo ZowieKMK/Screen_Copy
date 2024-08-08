@@ -13,8 +13,7 @@
 ## Details
 `RUN_SCRCPY.bat` Tested with Poco X6 Pro
 ```bash
-  scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264
-  --max-fps=65 --stay-awake -f
+  scrcpy --render-driver=OpenGL --video-bit-rate=60M --video-codec=h264 --max-fps=65 --stay-awake -f
 ```
 
 

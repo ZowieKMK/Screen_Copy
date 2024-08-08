@@ -35,7 +35,7 @@
 - Decrease the Framerate & Video Bitrate (`--max-fps=65` & `--video-bit-rate=60M`) if there any delay/lags,
 - You can also enable Wireless Mode using [Wireless ADB](https://help.famoco.com/developers/dev-env/adb-over-wifi)
 
-- # Audio
+## Audio
 
 Audio forwarding is supported for devices with _Android 11 or higher_, and it is
 enabled by default:
